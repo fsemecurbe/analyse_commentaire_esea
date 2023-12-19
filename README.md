@@ -8,3 +8,5 @@ Ensuite, tu vas dans [my services] et tu crées un nouveau service [Jupyter-pyth
 Tu attends un peu que ton service se charge et tu rentres dans ton service Jupyter.
 
 Une fois à l'intérieur, tu crées un terminal et tu tapes la lignes suivante : git clone https://github.com/fsemecurbe/analyse_commentaire_esea.git
+
+Maintenant, tu as ton code et l'arborescence ad-hoc. Il te reste plus qu'à uploader le fichier IDENTIFICATION.csv dans le répertoire data.
